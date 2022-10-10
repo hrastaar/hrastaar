@@ -35,11 +35,6 @@ Want to know more about me? [Check out my website.](https://rastaar.com)
 
 <br>
 
-<a href="https://github.com/hrastaar/Covid-iOS-App">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=hrastaar&repo=Covid-iOS-App&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-<br>
-
 ## &#x1f4c8; GitHub Stats
 
 <br>
@@ -64,8 +59,9 @@ Want to know more about me? [Check out my website.](https://rastaar.com)
 ![](https://img.shields.io/badge/Code-SwiftUI-informational?style=flat&logo=swift&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
 
-<details>
-<summary>Tools</summary>
+<br>
+
+## 🛠️ Tools
 
 ![](https://img.shields.io/badge/Tools-DigitalOcean-informational?style=flat&logo=DigitalOcean&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-AWS-informational?style=flat&logo=amazon&logoColor=white&color=4AB197)
@@ -77,5 +73,3 @@ Want to know more about me? [Check out my website.](https://rastaar.com)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=npm&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=4AB197)
-
-</details>
