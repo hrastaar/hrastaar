@@ -6,7 +6,7 @@
 
 Hey there 👋
 
-My name is Rastaar, and I'm a software engineer with backend development experience and iOS app-building experience. I currently work at Amazon Alexa as a Software Development Engineer I. Before that, I was an iOS engineer intern at Google and worked with the Google Voice iOS team. 
+My name is Rastaar, and I'm a software engineer with backend development experience and iOS app-building experience. I currently work at Prime Video as a Software Development Engineer I. My prior experience includes being a software engineer at Amazon Alexa and an iOS engineer intern at Google Voice iOS. 
 
 I graduated from the University of Southern California in 2021 with a bachelors degree in Computer Science (B.S.). 
 
