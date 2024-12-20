@@ -1,5 +1,5 @@
 
-[![GitHub Banner]([https://www.solsteads.com/_next/image?url=https%3A%2F%2Fcdn.solsteads.com%2Faddresses%2F65-king-street_banner.png&w=3840&q=75)](https://www.solsteads.com/348-delray-circle](https://cdn.solsteads.com/cdn-cgi/image/width=2048/https://cdn.solsteads.com/addresses/348-delray-circle_banner.png))
+[![GitHub Banner](https://cdn.solsteads.com/cdn-cgi/image/width=2048/https://cdn.solsteads.com/addresses/348-delray-circle_banner.png)](https://www.solsteads.com/348-delray-circle)
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/rastaarhaghi/)
 [![CodePen Badge](https://img.shields.io/badge/Discord-Profile-informational?style=flat&logo=discord&logoColor=white&color=787cfc)](https://discord.com/users/402026353618190337)
