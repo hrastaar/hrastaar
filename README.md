@@ -10,7 +10,7 @@ My name is Rastaar, and I'm a software engineer with backend development experie
 
 I graduated from the University of Southern California in 2021 with a bachelors degree in Computer Science (B.S.). 
 
-Want to know more about me? [Connect with me on Linkedin](https://www.linkedin.com/in/rastaarhaghi/))
+Want to know more about me? [Connect with me on Linkedin](https://www.linkedin.com/in/rastaarhaghi/)
 
 
 ## 📌 Pinned Repositories
