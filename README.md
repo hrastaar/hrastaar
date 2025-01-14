@@ -56,20 +56,18 @@ Want to know more about me? [Check out my website.](https://rastaar.com)
 
 ![](https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=Rust&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Swift-informational?style=flat&logo=swift&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=C++&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Swift-informational?style=flat&logo=swift&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-SwiftUI-informational?style=flat&logo=swift&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
 
 <br>
 
 ## 🛠️ Tools
 
-![](https://img.shields.io/badge/Tools-DigitalOcean-informational?style=flat&logo=DigitalOcean&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-AWS-informational?style=flat&logo=amazon&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-XCode-informational?style=flat&logo=apple&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-Anchor-informational?style=flat&logo=DigitalOcean&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-NodeJS-informational?style=flat&logo=javascript&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-XCode-informational?style=flat&logo=apple&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Solana-informational?style=flat&logo=github&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197)
