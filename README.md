@@ -49,7 +49,7 @@ Want to know more about me? [Check out my website.](https://rastaar.com)
 <br>
 
 <a href="https://github.com/hrastaar">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=hrastaar&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Martin's GitHub Stats" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=hrastaar&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Rastaar's GitHub Stats" />
 </a>
 
 ## 💼 Skills
@@ -70,9 +70,6 @@ Want to know more about me? [Check out my website.](https://rastaar.com)
 ![](https://img.shields.io/badge/Tools-AWS-informational?style=flat&logo=amazon&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-XCode-informational?style=flat&logo=apple&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-NodeJS-informational?style=flat&logo=javascript&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Express-informational?style=flat&logo=express&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Solana-informational?style=flat&logo=github&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=npm&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=4AB197)
