@@ -6,9 +6,7 @@
 
 Hey there 👋
 
-My name is Rastaar, and I'm a software engineer with backend development experience and iOS app-building experience. I currently work at Amazon Prime Video as a Software Development Engineer II. My prior experience includes backend engineering @ Amazon Alexa, and iOS engineering @ Google Voice.
-
-I'm currently building a real-world asset tokenization project called Ascendry on the Solana blockchain.
+My name is Rastaar, and I'm a software engineer with backend development experience and Web3 experience. I currently work at Amazon Prime Video as a Software Development Engineer II. Previously at Amazon Alexa and Google.
 
 I graduated from the University of Southern California in 2021 with a bachelors degree in Computer Science (B.S.). 
 
