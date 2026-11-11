@@ -1,11 +1,8 @@
-
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/rastaarhaghi/)
-
 Hey there 👋
 
 My name is Rastaar, and I'm a software engineer with backend development experience and Web3 experience. I currently work at Amazon Prime Video as a Software Development Engineer II. Previously at Amazon Alexa and Google.
 
-[Connect with me on Linkedin](https://www.linkedin.com/in/rastaarhaghi/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/rastaarhaghi/)
 
 ## 💼 Skills
 
